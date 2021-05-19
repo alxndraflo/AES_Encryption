@@ -1,2 +1,2 @@
 # AES_Encryption
-Implementation of AES encryption algorithm in C#
+Custom implementation of AES encryption algorithm in C#
